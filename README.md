@@ -11,9 +11,9 @@
       <p>Beyond the screen, I'm a dedicated teammate and mentor. From building full-stack applications under tight deadlines at Spartahack to competing internationally with the MSU Underwater Hockey Club, I enjoy working in <i style="color: #c9d1d9;">collaborative environments</i> where people rely on each other to succeed and ideas can be tested.</p>
       <p style="margin-bottom: 0;">I'm always looking to connect with folks who appreciate technical problem solving, smart automation, system design, and the occasional deep dive into music and nature.</p>
     </div>
-    <div style="margin-top: 32px; border-top: 1px solid #30363d; padding-top: 24px;">
-      <h2 style="color: #ffffff; font-size: 20px; margin-top: 0; margin-bottom: 20px; border: none;">📊 GitHub Analytics</h2>
-      <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" style="border-radius: 10px;" />
+    <div style="margin-top: 32px; border-top: 1px solid #30363d; padding-top: 24px; text-align: center;">
+      <h2 style="color: #ffffff; font-size: 20px; margin-top: 0; margin-bottom: 20px; border: none; text-align: left;">📊 GitHub Analytics</h2>
+      <img src="github-metrics.svg" alt="GitHub Metrics" style="border-radius: 10px; max-width: 100%; height: auto;" />
     </div>
   </div>
 </div>
