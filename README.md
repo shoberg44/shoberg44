@@ -5,6 +5,7 @@
     <div align="center" style="margin-bottom: 32px;">
       <h1 style="color: #ffffff; margin: 0; font-size: 32px; border-bottom: none;">👋 Congrats, you found it!</h1>
       <p style="color: #c9d1d9; font-size: 20px; margin-top: 8px;">Welcome to my GitHub, I'm <span style="color: #58a6ff; font-weight: bold;">Steven</span></p>
+      <b><a href="assets/Steven_Hoberg_Resume.pdf" style="color: #58a6ff; text-decoration: none;">📄 View my Resume</a></b>
     </div>
     <div style="color: #8b949e; line-height: 1.6; font-size: 16px;">
       <p>I'm a <b style="color: #ffffff;">Computer Science student at Michigan State University</b> who enjoys building software that is both highly functional and well-designed. My approach to programming is driven by curiosity and a focus on creating practical solutions—whether that means engineering a modular UI architecture for <b>Alchemy Software</b> or developing core full-stack features ground up with <b>GetAway</b>.</p>
