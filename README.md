@@ -3,6 +3,7 @@
   
   <div style="padding: 24px; background: #161b22; border-radius: 0 0 10px 10px; text-align: left;">
     <div align="center">
+      <img src="header.svg" alt="Header Stats" style="max-width: 100%; height: auto; margin-bottom: 12px;" />
       <h1 style="color: #ffffff; margin: 0; font-size: 32px; border-bottom: none;">👋 Congrats, you found it!</h1>
       <p style="color: #c9d1d9; font-size: 20px; margin-top: 8px; margin-bottom: 24px;">Welcome to my GitHub, I'm <span style="color: #58a6ff; font-weight: bold;">Steven</span></p>
     </div>
