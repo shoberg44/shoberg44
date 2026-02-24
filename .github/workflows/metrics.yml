@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Header (Avatar/Title)
+      - name: Header (Minimal)
         uses: lowlighter/metrics@latest
         with:
           filename: header.svg
@@ -19,14 +19,14 @@ jobs:
           base: header
           config_timezone: America/Detroit
 
-      - name: General Stats
+      - name: General Stats (Activity & Community)
         uses: lowlighter/metrics@latest
         with:
           filename: github-stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: shoberg44
           template: classic
-          base: activity, repositories, metadata
+          base: activity, community, repositories, metadata
           config_timezone: America/Detroit
 
       - name: Languages
