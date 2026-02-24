@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #0c1117; padding: 15px; border-radius: 12px; border: 1px solid #30363d;">
-  <img src="assets/banner.gif" alt="banner gif of conway's game of life" width="100%" style="max-height: 100px; object-fit: cover; border-radius: 10px 10px 0 0;" />
+  <img src="assets/JB_Game_of_Life_Crop.gif" alt="banner gif of conway's game of life" width="100%" style="max-height: 100px; object-fit: cover; border-radius: 10px 10px 0 0;" />
   
   <div style="padding: 24px; background: #161b22; border-radius: 0 0 10px 10px; text-align: left;">
     <div align="center" style="margin-bottom: 32px;">
